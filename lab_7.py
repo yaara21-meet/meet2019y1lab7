@@ -14,6 +14,7 @@ START_LENGTH = 4
 TIME_STEP = 100
 
 
+
 pos_list = []
 stamp_list = []
 food_pos = []
@@ -221,7 +222,6 @@ for size_turtle  in range(0,START_LENGTH) :
 
 
 turtle.mainloop()
-
 
 
 
